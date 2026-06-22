@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286587833540",
+    "project_id": "ai-fashion-app-d6f62",
+    "storage_bucket": "ai-fashion-app-d6f62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286587833540:android:9e4879d24880412fbc4d91",
+        "android_client_info": {
+          "package_name": "com.example.ai_fashion_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1NHYiNFqi32QSEe-cpF7x2ENTDynk9Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
