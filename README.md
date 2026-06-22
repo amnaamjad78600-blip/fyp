@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # ai_fashion_app
-Project Documentation : https://docs.google.com/document/d/1BT4MlYT7rKJccbg2lSYSsUMScDl6iggX/edit?usp=sharing&ouid=107712599732929568671&rtpof=true&sd=true 
+Project Documentation : [https://docs.google.com/document/d/1BT4MlYT7rKJccbg2lSYSsUMScDl6iggX/edit?usp=sharing&ouid=107712599732929568671&rtpof=true&sd=true]
 A new Flutter project.
 
 ## Getting Started
